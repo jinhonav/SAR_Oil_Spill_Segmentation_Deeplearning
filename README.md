@@ -55,6 +55,7 @@ Link: https://zenodo.org/records/15298010
 
 The training dataset should be organized as:
 
+```text
 data/refined_sos/
 
 ├── images/
@@ -64,7 +65,7 @@ data/refined_sos/
 └── masks/
     ├── train/
     └── val/
-
+```
 Each SAR image must have a corresponding binary oil-spill mask with the same filename.
 
 Example:
