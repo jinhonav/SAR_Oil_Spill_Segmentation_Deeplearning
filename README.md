@@ -17,7 +17,7 @@ A major challenge in SAR oil spill detection is the presence of **look-alike phe
 ## Repository Structure
 
 ```text
-Sentinel1-DeepLabV3-OilSpill/
+SAR_Oil_Spill_Segmentation_Deeplearning/
 
 ├── train_refined_sos.py
 ├── fine_tune_dartis_osd.py
