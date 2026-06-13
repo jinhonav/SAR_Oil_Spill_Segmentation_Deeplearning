@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MATLAB
+*.asv
+
+# Large remote sensing files
+*.nc
+*.SAFE/
+*.zip
+*.tar
+
+# Temporary files
+.DS_Store
+
+# Colab
+/content/
+
+# Optional
+*.mat
