@@ -19,11 +19,11 @@ A major challenge in SAR oil spill detection is the presence of **look-alike phe
 ```text
 SAR_Oil_Spill_Segmentation_Deeplearning/
 ├── scripts/
-    ├── Train_refiendSOS.py
-    ├── Fine_tune_DARTIS_OSD.py
-    ├── Inference_Sentinel1.py
-    ├── Evaluate_model.py
-    └── Visualization_Sentinel1.py
+    ├── Train_refiendSOS.ipynb
+    ├── Fine_tune_DARTIS_OSD.ipynb
+    ├── Inference_Sentinel1.ipynb
+    ├── Evaluate_model.ipynb
+    └── Visualization_Sentinel1.ipynb
 ├── figures/
 ├── MATLAB/
     └── Mapping_Sentinel1.m
