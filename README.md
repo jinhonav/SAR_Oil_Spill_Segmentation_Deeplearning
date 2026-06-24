@@ -389,8 +389,10 @@ Please download the datasets from the original sources listed above.
 ## References
 
 [1] Yang, Y. J., & Singha, S. (2025). Oil slicks, look-alikes and other remarkable SAR signatures in Sentinel-1 imagery in the Eastern Mediterranean Sea in 2019. PANGAEA.
+
 [2] Blondeau-Patissier, D., Schroeder, T., Diakogiannis, F., & Li, Z. (2022). CSIRO Sentinel-1 SAR image dataset of oil- and non-oil features for machine learning.
 CSIRO Data Access Portal. DOI: 10.25919/4v55-dn16
+
 [3] Q. Zhu, Y. Zhang, Z. Li, X. Yan, Q. Guan, Y. Zhong,  L. (2021). Zhang, and D. Li, “Oil Spill Contextual and Boundary-Supervised Detection Network Based on Marine SAR Images,” IEEE Transactions on Geoscience and Remote Sensing. DOI: 10.1109/TGRS.2021.3115492
 
 
