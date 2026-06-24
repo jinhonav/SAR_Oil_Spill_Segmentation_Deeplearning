@@ -393,7 +393,7 @@ Please download the datasets from the original sources listed above.
 [2] Blondeau-Patissier, D., Schroeder, T., Diakogiannis, F., & Li, Z. (2022). CSIRO Sentinel-1 SAR image dataset of oil- and non-oil features for machine learning.
 CSIRO Data Access Portal. DOI: 10.25919/4v55-dn16
 
-[3] Q. Zhu, Y. Zhang, Z. Li, X. Yan, Q. Guan, Y. Zhong, L. Zhang, & D. Li. (2021). “Oil Spill Contextual and Boundary-Supervised Detection Network Based on Marine SAR Images,” IEEE Transactions on Geoscience and Remote Sensing. DOI: 10.1109/TGRS.2021.3115492
+[3] Q. Zhu, Y. Zhang, Z. Li, X. Yan, Q. Guan, Y. Zhong, L. Zhang, & D. Li. (2021). Oil Spill Contextual and Boundary-Supervised Detection Network Based on Marine SAR Images, IEEE Transactions on Geoscience and Remote Sensing. DOI: 10.1109/TGRS.2021.3115492
 
 
 ## License
